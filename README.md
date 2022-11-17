@@ -2,7 +2,7 @@
 # Вопросы для собеседования на Java Developer
 
 + [ООП](oop.md#ООП)
-+ [Java](java.md#java)
++ [Java](java.md#Java)
 + [Spring](spring.md#spring)
 + [Hibernate](hibernate.md#hibernate)
 + [Базы данных](databases.md#Базы-данных)
