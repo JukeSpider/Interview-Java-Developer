@@ -200,6 +200,17 @@ Parent static block(s) → Child static block(s) → Grandchild static block(s)
 [к оглавлению](#java-core)
 
 ## Функция `main()`.
+
+Метод `main()` — точка входа в программу. 
+
+В приложении может быть несколько таких методов.
+
+Если метод отсутствует, то компиляция возможна, но при запуске будет получена ошибка _\`Error: Main method not found\`_.
+
+```java 
+public static void main(String[] args) {}
+```
+
 [к оглавлению](#java-core)
 
 ## Логические операции и операторы.
