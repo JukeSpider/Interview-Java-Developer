@@ -2,7 +2,6 @@
 # Вопросы для собеседования на Java Developer
 
 + [ООП](oop.md#ООП)
-+ [JVM](#jvm)
 + [Java Core](#java-core)
 + [Java Collections Framework](#java-collections)
 + [Java 8](#java-8)
