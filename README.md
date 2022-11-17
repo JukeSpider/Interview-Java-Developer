@@ -2,7 +2,7 @@
 # Вопросы для собеседования на Java Developer
 
 + [ООП](oop.md#ООП)
-+ [Java Core](#java-core)
++ [Java Core](java-core.md#java-core)
 + [Java Collections Framework](#java-collections)
 + [Java 8](#java-8)
 + [Потоки ввода-вывода в Java](#Потоки-вводавывода-в-java)
