@@ -1,5 +1,6 @@
 [К списку тем](README.md)
-[К _JAVA_](java.md)
+
+[К "JAVA"](java.md)
 
 # Java basic
 + [Понятия JRE, JVM и JDK.](#Понятия-jre-jvm-и-jdk)
