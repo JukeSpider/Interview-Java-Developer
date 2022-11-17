@@ -1,4 +1,4 @@
-[К список тем](README.md)
+[К списку тем](README.md)
 
 [К теме `JAVA`](java.md)
 
