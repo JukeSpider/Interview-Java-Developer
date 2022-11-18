@@ -8,10 +8,10 @@
 + [Лямбда выражения.](#Лямбда-выражения)
 + [Захват переменных.](#Захват-переменных)
 + [Что такое _"Method reference"_?](#Лямбда-выражения)
-+ [Класс `Optional<T>`.](#Класс-optional)
++ [Класс `Optional<T>`.](#Класс-optionalt)
 + [`Stream API`.](#Stream-api)
 + [`Date Time API`.](#Date-time-api)
-+ [Класс `StringJoiner<T>`.](#Класс-stringjoiner)
++ [Класс `StringJoiner<T>`.](#Класс-stringjoinert)
 
 ## `Default` методы интерфейса.
 Java 8 позволяет добавлять неабстрактные методы в интерфейс со своей реализацией, 
